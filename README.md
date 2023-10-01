@@ -13,7 +13,8 @@ Roman Teterevlev
 *В качестве ответа  пришлите снимки экрана домашнего каталога пользователя с исходными и зашифрованными данными.*  
 
 ### Ответ:
-
+![alt text](https://github.com/Roman-Teterevlev/SYS-19_13-02/blob/main/13-02_1.1.png)
+![alt text](https://github.com/Roman-Teterevlev/SYS-19_13-02/blob/main/13-02_1.2.png)
 
 ---
 
@@ -26,6 +27,9 @@ Roman Teterevlev
 *В качестве ответа пришлите снимки экрана с поэтапным выполнением задания.*
 
 ### Ответ:
-
+![alt text](https://github.com/Roman-Teterevlev/SYS-19_13-02/blob/main/13-02_2.1.png)
+![alt text](https://github.com/Roman-Teterevlev/SYS-19_13-02/blob/main/13-02_2.2.png)
+![alt text](https://github.com/Roman-Teterevlev/SYS-19_13-02/blob/main/13-02_2.3.png)
+![alt text](https://github.com/Roman-Teterevlev/SYS-19_13-02/blob/main/13-02_2.4.png)
 
 ---
